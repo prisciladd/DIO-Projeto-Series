@@ -1,2 +1,3 @@
-# DIO-Projeto-Series
-Projeto de cadastro de series com dotnet core 3.1, testes e API
+```
+dotnet run --project .\DIO.Series.Web\DIO.Series.Web.csproj --urls https://localhost:44322
+```
